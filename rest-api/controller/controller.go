@@ -38,7 +38,6 @@ func createData(c *fiber.Ctx) error {
 	c.Status(200).JSON(&fiber.Map{
 		"Data": data,
 	})
-
 	return nil
 }
 
