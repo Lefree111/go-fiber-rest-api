@@ -1,9 +1,9 @@
 package main
 
 import (
-	database "app/api/entity"
+	database "github.com/Lefree111/go-fiber-rest-api/api/entity"
 
-	"app/rest-api/controller"
+	"github.com/Lefree111/go-fiber-rest-api/rest-api/controller"
 
 	"github.com/gofiber/fiber/v2"
 )

@@ -1,7 +1,7 @@
 package controller
 
 import (
-	database "app/api/entity"
+	database "github.com/Lefree111/go-fiber-rest-api/api/entity"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
